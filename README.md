@@ -32,9 +32,9 @@
    - [Running a tight ship](#running-a-tight-ship) 🚢
    - [Opensource as motivation](#opensource-as-motivation) ❤️
 5. Shipping
- - [Asymmetrical outcomes](#asymmetrical-outcomes) 🦄 
- - [The most important feature is trust](#The-most-important-feature-is-trust) 🤞
- - [Shipping to stay relevant](#shipping-to-stay-relevant) 🚀 
+   - [Asymmetrical outcomes](#asymmetrical-outcomes) 🦄 
+   - [The most important feature is trust](#The-most-important-feature-is-trust) 🤞
+   - [Shipping to stay relevant](#shipping-to-stay-relevant) 🚀 
  
  
  ### **TLDR;**
