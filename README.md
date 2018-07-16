@@ -64,9 +64,9 @@ Company  | Project | CoreDev | Dominance | Contributors
 [Github](https://github.com/github) |[Atom](https://github.com/atom/atom/)  | [kevinsawicki](https://github.com/kevinsawicki), [nathansobo](https://github.com/nathansobo) , [benogle](https://github.com/benogle) | 67% |  411
 [AudioKit](https://github.com/AudioKit) | [AudioKit](https://github.com/AudioKit)  | [Aure](https://github.com/aure) | 92% | 81
 
-**Dominance**: Represents the total percentage of commits by CoreDev(s)
-**CoreDev**: The developer(s) that does the bulk of coding in a project
-**Contributors**: The total number of developers that has contributed to a project
+**Dominance**: Represents the total percentage of commits by CoreDev(s)  
+**CoreDev**: The developer(s) that does the bulk of coding in a project  
+**Contributors**: The total number of developers that has contributed to a project  
 
 Being a core developer on a big project is so much more than hammering out features. As a project matures core developers will be responsible for reviewing pull requests, managing personal and external open-source projects that are used in the day to day business. Staying up to date with convention,  porting projects and it's dependencies to support the latest language API changes, writing blog posts about methodologies in order to understand them better. Writing demo projects to test new theories. Please cut them some slack if they take a bit of extra time when coding a one off submodule or a like. Their head may be a bit dispersed and they may not be as quick as a rookie developer with nothing on their plate. Doesn't make them outdated or past their prime. Apples and oranges. 🍏🍊
 
@@ -98,11 +98,11 @@ Author | Project | LOC | Grade | [GPA](https://hub.codebeat.co/docs/gpa-explaine
 
 
 
-**LOC**: Lines of code (Says something about the size of the project)
-**Grade**: Directly related to GPA. Everything over 3.3 Gets an `A` 🥇, etc.
-**GPA**: Reflects the quality of codebase. Does it avoid code smells? Is the cyclomatic complexity low? Good code quality means fewer bugs and less frustration when developing on top of it. [codebeat GPA explained](https://hub.codebeat.co/docs/gpa-explained)
-**Stars**: Reflects how many other developers that find the project interesting or useful and want to show their support for an OSS effort.
-**CodeCov**: Indicates how much of the codebase has continuous testing
+**LOC**: Lines of code (Says something about the size of the project)  
+**Grade**: Directly related to GPA. Everything over 3.3 Gets an `A` 🥇, etc.  
+**GPA**: Reflects the quality of codebase. Does it avoid code smells? Is the cyclomatic complexity low? Good code quality means fewer bugs and less frustration when developing on top of it. [codebeat GPA explained](https://hub.codebeat.co/docs/gpa-explained)  
+**Stars**: Reflects how many other developers that find the project interesting or useful and want to show their support for an OSS effort.  
+**CodeCov**: Indicates how much of the codebase has continuous testing  
 
 These metrics are important. You should probably avoid adding dependencies that has a GPA grade of C. Simply because they will degrade your project. And the dependencies will struggle with bugs and complexity as time goes on and might even become impossible to work on. Humans have a tendency to pick from big house hold names and brands or whatever is recognized as being popular, it's a quick way to measure quality, but isn't necessarily wise. With Continuous Code Quality services like codebeat, Codacy or SonarCube we can pick better dependencies and learn to code better software. It's not too far fetched to think that at some point in the future GPA wont only apply to the project you work on but also to the dependencies your project relies on. Something like a dependency score.
 
@@ -130,10 +130,10 @@ I know, I know. Subscription life sucks. But time is finite and if you can go fa
 ### GitHub is for everyone 🌍
 Maybe someone on your team that isn't a developer discovers a bug. Giving non-developers access to GitHub repos enables them to:
 
-1. Check if a similar issue is already present, if not then [open a github issue](https://github.com/sindresorhus/gifski-app/issues/40).
-2. Ask the core dev(s) on the project, with `@` tagging, if it can be fixed.
-3. Then the developers on the project will investigate the issue discussing urgency / priority / complexity
-4. Finally assigning a priority to the issue and then with `@ tagging politely ask if someone has time to solve it.
+1. Check if a similar issue is already present, if not then [open a github issue](https://github.com/sindresorhus/gifski-app/issues/40).  
+2. Ask the core dev(s) on the project, with `@` tagging, if it can be fixed.  
+3. Then the developers on the project will investigate the issue discussing urgency / priority / complexity  
+4. Finally assigning a priority to the issue and then with `@ tagging politely ask if someone has time to solve it.  
 
 If the issues piles up and there are tens or hundreds of issues, then it's probably a good sign that the codebase is lacking code quality or there is lack of allocated time for maintenance of the codebase. Once an issue is fixed, the issue is closed and a link to the Pull-request that fixed the problem is added to the bottom of the issue. Keeping a tight ship is make it or break it when your building complex software involving many people / teams / dependencies. The point of all this is that the problem is presented front and center, the issue finder gets credit for finding the issue, bonus points for adding a description about what led to the error. Who ever investigates the issue and finds additional information about the issue gets credit for time spent. And finally who ever solved the problem gets commit credit. With GitHub's new feature, Team Commit, everyone that was involved should be credited authors of the commit.
 
