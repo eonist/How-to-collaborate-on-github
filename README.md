@@ -1,44 +1,42 @@
-![](https://img.shields.io/badge/Downloads:-0-green.svg)  ![](https://img.shields.io/badge/Lisence:-MIT-orange.svg) [![codebeat badge](https://img.shields.io/badge/PDF-Coming-blue.svg)](https://github.com/eonist/how-to-collaborate-on-github/releases/package.zip) ![](https://img.shields.io/badge/Version-1.0-yellow.svg)
+![](https://img.shields.io/badge/Downloads:-NA-green.svg)  ![](https://img.shields.io/badge/Lisence:-MIT-orange.svg) [![codebeat badge](https://img.shields.io/badge/PDF-Coming-blue.svg)](https://github.com/eonist/how-to-collaborate-on-github/releases/package.zip) ![](https://img.shields.io/badge/Version-1.0-yellow.svg)
 
 
 ### Introduction:
-
 >A much overlooked part of software making is how we choose to organize. How we can share the amount of work evenly and keep team-mates and contributors motivated. These are some of my observations on how we can organize better on GitHub.
 >
 
 ### Table of content:
-
 1. Collaboration
-    - [Asynchronous QA](#asynchronous-qa) 🤷
-    - [Asynchronous issues](#asynchronous-issues) 🤔
-    - [Core developer syndrome](#core-developer-syndrome) 😷
+    - [Asynchronous QA](#asynchronous-qa-) 🤷
+    - [Asynchronous issues](#asynchronous-issues-) 🤔
+    - [Core developer syndrome](#core-developer-syndrome-) 😷
 2. Automation
-   - [Continuous quality](#continuous-quality) 👌
-   - [Digital superpowers](#digital-super-powers) 💪
-   - [Subscription life](#Subscription-life) 💸
+   - [Continuous quality](#continuous-quality-) 👌
+   - [Digital super powers](#digital-super-powers-) 💪
+   - [Subscription life](#subscription-life-) 💸
 3. Management
-   - [Github for everyone](#github-for-everyone) 🌍
-   - [Project hub](#project-hub) 🚦
-   - [Personal career](#personal-career) 👔
-   - [Feature creep](feature-creep) 😱
-   - [Leaving a paper trail](#leaving-a-paper-trail)  🔍
-   - [Premise of the developer](#premise-of-the-developer)  📝
-   - [Simplifying complexity](#simplifying-complexity) 🗜
+   - [Github for everyone](#github-for-everyone-) 🌍
+   - [Project hub](#project-hub-) 🚦
+   - [Personal career](#personal-career-) 👔
+   - [Feature creep](#feature-creep-) 😱
+   - [Leaving a paper trail](#leaving-a-paper-trail-)  🔍
+   - [Premise of the developer](#premise-of-the-developer-)  📝
+   - [Simplifying complexity](#simplifying-complexity-) 🗜
 4. Motivation
-   - [Satisfaction](#satisfaction) 😊
-   - [Incentivizing tasks](#incentivizing-tasks) 🍭
-   - [Product ownership](#product-ownership) 🔑
-   - [Code debt backlogs](#code-debt-backlogs) 😅
-   - [Running a tight ship](#running-a-tight-ship) 🚢
-   - [Opensource as motivation](#opensource-as-motivation) ❤️
+   - [Satisfaction](#satisfaction-) 😊
+   - [Incentivizing tasks](#incentivizing-tasks-) 🍭
+   - [Product ownership](#product-ownership-) 🔑
+   - [Code debt backlogs](#code-debt-backlogs-) 😅   
+   - [Running a tight ship](#running-a-tight-ship-) 🚢
+   - [Opensource as motivation](#opensource-as-motivation-) ❤️
 5. Shipping
-   - [Asymmetrical outcomes](#asymmetrical-outcomes) 🦄
-   - [The most important feature is trust](#The-most-important-feature-is-trust) 🤞
-   - [Shipping to stay relevant](#shipping-to-stay-relevant) 🚀
+   - [Asymmetrical outcomes](#asymmetrical-outcomes-) 🦄
+   - [The most important feature is trust](#the-most-important-feature-is-trust-) 🤞
+   - [Shipping to stay relevant](#shipping-to-stay-relevant-) 🚀
 
 
  ### **TLDR;**
- >  We are all busy right? And we don’t have time for long reads anymore. That’s ok, because you can just fork this book, download the pdf or even star it and revisit later. The book is he to provide insight on how to remain motivated when collaborating on Github, how to avoid feature-creep and complexity and finally how tactics to handle unrealistic expectations and deadlines. Please feel free to give feedback or suggest further reading, I can’t guarantee that it will make it in to the book, as I want it to be as succinct as possible. But it wouldn't be a very good book about collaboration if it only ever had one contributor. 🙏
+ >  We are all busy right? And we don’t have time for long reads anymore. That’s ok, you can just fork this book, download the pdf or even star it and revisit later. The book is here to provide insight on how to remain motivated when collaborating on Github, how to avoid feature-creep, complexity and finally tactics to handle unrealistic expectations and deadlines. Please feel free to give feedback or suggest further reading, I can’t guarantee that it will make it in to the book, as I want it to be as succinct as possible. But it wouldn't be a very good book about collaboration if it only ever had one contributor. 🙏
  >
 
 ### **Acknowledgment:**
@@ -127,10 +125,11 @@ Continuous release  | [Fastlane](https://fastlane.tools)  | Free
 `*Free for public OSS (Open-source-software)`
 
 ### Subscription life 💸
-I know, I know. Subscription life sucks. But time is finite and if you can go faster you can do more in less time. Personally I don't like all these services automatically pulling $$ from my bank account. There might be inconsistencies, or credit card information may be leaked and misused. So to avoid scenarios draining my normal bank account I pay for a prepaid visa card and fill it up every quarter with 3-400$. That way if the card is defrauded I don't need to go through the hoops and legal process of trying to get back any serious amount of money. There is usually a one time fee to fill up prepaid cards, but a few dollars feels totally worth the extra level of protection it offers. It also feels more tangible to fill up the prepaid account with money on a regular basis and gives you the chance to evaluate if a service really worth it?. Sometimes the company you work for are don't want to spend pocket money on SaaS services because it adds to their overall organizational friction or they don't want to come of as careless with company funds. By personally being in charge for paying for the service your team needs, you can move faster and try more services without having to go through too much red tape. Then just take it up with billing after the fact, and explain how instrumental it was in the success of project XYZ, its always easier to ask for something when everyone is on a high note. Using anonymous visa cards also has the added benefit of leaving your personal name out of it. When shit hits the fan and the credit-card processor gets hacked and their entire database winds up on the dark web. At least your name isn't added to the increasing "personal-information-database" that is growing by the day on the dark-web. GDPR doesn't exactly apply to the dark-web. Either that or the card provider sells your info to some shady third-party ad tracking company. You know when your insta gets filled with SaaS commercials that someone sold your info. So to avoid all this, what you do is: Personal Visa -> Cash ->  pre-paid visa -> live a happy life 🏖🍸
+I know, I know. Subscription life sucks. But time is finite and if you can go faster you can do more in less time. Personally I don't like all these services automatically pulling `$$` from my bank account. There might be inconsistencies, or credit card information may be leaked and misused. So to avoid scenarios draining my normal bank account I pay for a prepaid visa card and fill it up every quarter with 3-400$. That way if the card is defrauded I don't need to go through the hoops and legal process of trying to get back any serious amount of money. There is usually a one time fee to fill up prepaid cards, but a few dollars feels totally worth the extra level of protection it offers. It also feels more tangible to fill up the prepaid account with money on a regular basis and gives you the chance to evaluate if a service really worth it?. Sometimes the company you work for are don't want to spend pocket money on SaaS services because it adds to their overall organizational friction or they don't want to come of as careless with company funds. By personally being in charge for paying for the service your team needs, you can move faster and try more services without having to go through too much red tape. Then just take it up with billing after the fact, and explain how instrumental it was in the success of project XYZ, its always easier to ask for something when everyone is on a high note. Using anonymous visa cards also has the added benefit of leaving your personal name out of it. When shit hits the fan and the credit-card processor gets hacked and their entire database winds up on the dark web. At least your name isn't added to the increasing "personal-information-database" that is growing by the day on the dark-web. GDPR doesn't exactly apply to the dark-web. Either that or the card provider sells your info to some shady third-party ad tracking company. You know when your insta gets filled with SaaS commercials that someone sold your info. So to avoid all this, what you do is: Personal Visa -> Cash ->  pre-paid visa -> live a happy life 🏖🍸
 
 # **Management**
-### GitHub is for everyone 🌍
+
+### Github for everyone 🌍
 Maybe someone on your team that isn't a developer discovers a bug. Giving non-developers access to GitHub repos enables them to:
 
 1. Check if a similar issue is already present, if not then [open a github issue](https://github.com/sindresorhus/gifski-app/issues/40).  
@@ -173,7 +172,7 @@ Committing code is a little like chopping wood. After a long and sweaty day amon
 
 <img width="600" alt="img" src="https://rawgit.com/stylekit/img/master/Screen Shot 2018-07-10 at 16.31.53.jpg">
 
-### Incentivising tasks 🍭
+### Incentivizing tasks 🍭
 StackOverflow is great. It incentives people to help other people on the off chance that someone in the future may upvote your the effort to help. Every time I need to look up some code related issue i fire up chrome with StackOverflow and see if I can find something related to my code question. Sometimes there is a little green flag that indicates a few of my previous answers has been upvoted since i last visited the site. And other times there is a red flag indicating that someone has additional questions, maybe I have to adjust one of my answers to reflect recent API change etc. StackOverflow isn't with out flaws, there is no incentive to change previous answers by other people that clearly needs an update, People are rather incentivised to add new answers of their own, often duplicates of previous answers. and as a result you end up with slightly different variations of the same answer. Instead one could have just updated the original answer.but since there is no upvotes to be gained for edits and since no one will ever know you updated the answer. People simple avoid doing things that are not noticed or adds up to their personal prosperity.
 
 ### Product ownership
