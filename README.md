@@ -75,7 +75,7 @@ But being a core developer on a big project is so much more than hammering out f
 # **Automation**
 
 ### Continuous quality 👌
-Bellow is a list of noticeable swift projects on GitHub, sorted by code quality. As you can see popularity and big tech names doesn't always translate to great code quality. On the contrary, passion projects by indie developers such as [SindreSorhus](https://github.com/SindreSorhus) and [3lvis](https://github.com/3lvis/)  can often yield the highest code quality.
+Bellow is a list of noticeable swift projects on GitHub, sorted by code quality. As you can see popularity and big tech names doesn't always translate to great code quality. On the contrary, passion projects by indie developers such as [SindreSorhus](https://github.com/SindreSorhus) and [3lvis](https://github.com/3lvis/) often yield higher code quality.
 
 Author | Project | LOC | Grade | [GPA](https://hub.codebeat.co/docs/gpa-explained) | Stars | [CodeCov](https://codecov.io/)
 :--- | :--- | :--- | :--- | :--- | :--- | :---
@@ -101,12 +101,13 @@ Author | Project | LOC | Grade | [GPA](https://hub.codebeat.co/docs/gpa-explaine
 
 
 **LOC**: Lines of code (Says something about the size of the project)  
-**Grade**: Directly related to GPA. Everything over 3.3 Gets an `A` 🥇, etc.  
-**GPA**: Reflects the quality of codebase. Does it avoid code smells? Is the cyclomatic complexity low? Good code quality means fewer bugs and less frustration when developing on top of it. [codebeat GPA explained](https://hub.codebeat.co/docs/gpa-explained)  
-**Stars**: Reflects how many other developers that find the project interesting or useful and want to show their support for an OSS effort.  
+**Grade**: Directly related to GPA. Everything over 3.3 Gets an `A` 🥇 
+**GPA**: Reflects the quality of the codebase. Does it avoid code smells? Is the cyclomatic complexity low? Good code quality means fewer bugs and less frustration when developing on top of it. [codebeat GPA explained](https://hub.codebeat.co/docs/gpa-explained)  
+**Stars**: Reflects how many developers have shown their support either, for the technical achievment or because they are themselves using it in other projects.  
 **CodeCov**: Indicates how much of the codebase has continuous testing  
 
-These metrics are important. You should probably avoid adding dependencies that has a GPA grade of C. Simply because they will degrade your project. And the dependencies will struggle with bugs and complexity as time goes on and might even become impossible to work on. Humans have a tendency to pick from big house hold names and brands or whatever is recognized as being popular, it's a quick way to measure quality, but isn't necessarily wise. With Continuous Code Quality services like codebeat, Codacy or SonarCube we can pick better dependencies and learn to code better software. It's not too far fetched to think that at some point in the future GPA wont only apply to the project you work on but also to the dependencies your project relies on. Something like a dependency score.
+These metrics are importants. You should probably avoid adding dependencies that have a GPA grade of C and below simply because they may  degrade your project, and you may struggle with bugs of increasing complexity as time goes on. At some point it might even become impossible to work on.
+Humans have a tendency to pick from big house hold names and brands or whatever is recognized as being popular, it's a quick way to measure quality, but isn't necessarily wise. With Continuous Code Quality services like codebeat, Codacy or SonarCube we can pick better dependencies and learn to code better software. It's not too far fetched to think that at some point in the future GPA will not only apply to the projects you work on but also to the dependencies your projects relies on. Something like a dependency score. The conclusion here is that these dependencies are the foundations of your projects, and you better choose them wisely.
 
 ### Digital super powers 💪
 You can create a digital product on string budget. But in my opinion you can save a lot of money by joining the SaaS eco system and paying for services that will save you time. Definitely bootstrap the MVP and ship the product to market. But once you start to form a company. Suddenly you become dependent on creating a culture that can produce high quality code. At which point it's vital to re-strap and pay for a few services that will give your developers super powers. It could mean paying 25$-100$ monthly for services but it would enable your developer team of 2-3 people to do the job of 5-6 developers.
