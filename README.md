@@ -38,11 +38,11 @@
 
 
  ### **TLDR;**
- >  We are all busy right? And we don’t have time for long reads anymore. That’s ok, you can just fork this book, download the pdf or star it and revisit it later. The book is about how we can stay motivated when we collaborate on github, how we can avoid feature-creep and complexity and how we can handle unrealistic expectations and deadlines. Please feel free to give feedback or suggest further reading, I can’t guarantee that it will make it in to the book, as I want it to be as succinct as possible. But it wouldn't be a very good book about collaboration if it only ever had one contributor. 🙏
+ >  We are all busy right? And we don’t have time for long reads anymore. That’s ok, because you can just fork this book, download the pdf or even star it and revisit later. The book is he to provide insight on how to remain motivated when collaborating on Github, how to avoid feature-creep and complexity and finally how tactics to handle unrealistic expectations and deadlines. Please feel free to give feedback or suggest further reading, I can’t guarantee that it will make it in to the book, as I want it to be as succinct as possible. But it wouldn't be a very good book about collaboration if it only ever had one contributor. 🙏
  >
 
 ### **Acknowledgment:**
-> This book is still in a _very early_ stage. It revolves around the programing language `swift` but should be applicable to any programming language. It's written from the point of view of the developer as oppose to being written top-down by management. Opinions are my own and may not necessarily reflect the views of companies I work for. Please feel free to open an issue or make a pull-request if you find typos or incorrect information. License: [MIT](https://en.wikipedia.org/wiki/MIT_License) (Free & open source)
+> This book is still in a _very early_ stage. It revolves around the programing language `Swift` but should be applicable to any programming language. It's written from the point of view of the developer as opposed to being written top-down by management. Opinions are my own and may not necessarily reflect the views of companies I work for. Please feel free to open an issue or make a pull-request if you find typos or incorrect information. License: [MIT](https://en.wikipedia.org/wiki/MIT_License) (Free & open source)
 >
 
 # **Collaboration**
