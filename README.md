@@ -113,7 +113,7 @@ In a professional project you should aim to have:
 
 CI | Vendor | Price
 --- | --- | ---
-Continuous quality | [ Codebeat](https://codebeat.co)   | Free* (20$/m)
+Continuous quality | [Codebeat](https://codebeat.co)   | Free* (20$/m)
 Continuous building | [Circle CI](https://circleci.com/)   | Free* (39$/m)
 Continuous testing | [Codecov](https://codecov.io/)  | Free* (29$/m)
 Continuous documentation | [Jazzy](https://github.com/realm/jazzy)   | Free
