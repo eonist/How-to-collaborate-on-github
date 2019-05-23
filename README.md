@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Downloads:-NA-green.svg)
-![](https://img.shields.io/badge/Lisence:-MIT-orange.svg)
+![](https://img.shields.io/badge/License:-MIT-orange.svg)
 [![codebeat badge](https://img.shields.io/badge/PDF-Coming-blue.svg)](https://github.com/eonist/how-to-collaborate-on-github/releases/package.zip)
 ![](https://img.shields.io/badge/Version-1.0-yellow.svg)
 ![https://niram.org/read/](https://img.shields.io/badge/Read--time:-24_min-hotpink.svg)
